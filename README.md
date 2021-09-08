@@ -1,5 +1,5 @@
-# psyc3400
+# Business Stats
 
-Source code for course website: Psyc 3400 Statistics @ Brooklyn College, taught by Matt Crump
+Source code for course website: Stats1967 by Dawn Wright based on Psych3400 by Crump
 
-[https://crumplab.github.io/psyc3400/](https://crumplab.github.io/psyc3400/)
+
